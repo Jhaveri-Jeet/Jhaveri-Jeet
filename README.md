@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fc210d77-38f8-473d-a4cb-5f6ce390cc50">
+<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fc210d77-38f8-473d-a4cb-5f6ce390cc50" style="margin-bottom: 50px">
 <br /><br /><br /><br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -84,12 +84,12 @@
 <div width="100%" align="center">
   <a align="left" href="https://github.com/jhaveri-jeet/Java-Basics" title="Java-Basics"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Java-Basics&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/jhaveri-jeet/Python-Basics" title="Data Structures"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Python-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/jhaveri-jeet/AJE" title="AJE"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=AJE&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/jhaver-jeet?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
