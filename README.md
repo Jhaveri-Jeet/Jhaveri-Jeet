@@ -89,7 +89,12 @@
   <a align="left" href="https://github.com/jhaveri-jeet/AJE" title="AJE"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=AJE&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+
+<hr>
+
+<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=react&border_color=61dafb&border_radius=10)
 <br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
-  <a href="https://github.com/jhaver-jeet?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/Jhaveri-Jeet?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
