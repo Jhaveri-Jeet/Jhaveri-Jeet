@@ -94,8 +94,10 @@
 <br /><br /><br /><br />
 <hr>
 
+<p align="center">
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react&border_color=61dafb&border_radius=10" align="center">
+</p>
 <br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Jhaveri-Jeet?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
