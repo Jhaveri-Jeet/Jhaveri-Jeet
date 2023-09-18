@@ -79,6 +79,7 @@
 
 <hr>
 
+<p align="center">
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
 <div width="100%" align="center">
@@ -89,11 +90,12 @@
   <a align="left" href="https://github.com/jhaveri-jeet/AJE" title="AJE"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=AJE&theme=react&border_color=61dafb&border_radius=10"></a>
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
+</p>
 
 <hr>
 
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=react&border_color=61dafb&border_radius=10)
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react&border_color=61dafb&border_radius=10" align="center">
 <br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
   <a href="https://github.com/Jhaveri-Jeet?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
