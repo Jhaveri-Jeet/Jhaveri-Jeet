@@ -96,7 +96,9 @@
 
 <p align="center">
 <h2 align="center">✍️ Dev Quote ✍️</h2>
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark" height="200" align="center">
+<a align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark" height="200" align="center">
+</a>
 </p>
 <br/><br/><br/><br/><br/><br/><br/>
 <h4 align="center">
