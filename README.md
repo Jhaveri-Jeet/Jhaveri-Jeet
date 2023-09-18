@@ -79,9 +79,9 @@
 
 <hr>
 
-<p align="center">
 <h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
 <br>
+<p align="center">
 <div width="100%" align="center">
   <a align="left" href="https://github.com/jhaveri-jeet/Java-Basics" title="Java-Basics"><img align="left" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Java-Basics&theme=react&border_color=61dafb&border_radius=10"></a><a align="right" href="https://github.com/jhaveri-jeet/Python-Basics" title="Data Structures"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Python-Basics&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
@@ -91,7 +91,7 @@
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
-
+<br /><br /><br /><br />
 <hr>
 
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
