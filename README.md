@@ -91,10 +91,8 @@
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
-<!-- <br /><br /><br /><br /><br /><br /> -->
-<hr>
-
-<!-- <p align="center">
+<!-- <br /><br /><br /><br /><br /><br />
+<p align="center">
 <h2 align="center">✍️ Dev Quote ✍️</h2>
 <a align="center">
 <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark" height="200" align="center">
