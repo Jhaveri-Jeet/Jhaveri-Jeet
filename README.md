@@ -75,6 +75,8 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+[![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 </p>
 
 <hr>
@@ -91,8 +93,6 @@
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
-
-[![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 
 <br/><br/><br/><br/><br/><br/><br/>
 
