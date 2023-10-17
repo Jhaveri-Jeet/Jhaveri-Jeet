@@ -91,13 +91,8 @@
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
-<!-- <br /><br /><br /><br /><br /><br />
-<p align="center">
-<h2 align="center">✍️ Dev Quote ✍️</h2>
-<a align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark" height="200" align="center">
-</a>
-</p> -->
+
+[![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 
 <br/><br/><br/><br/><br/><br/><br/>
 
