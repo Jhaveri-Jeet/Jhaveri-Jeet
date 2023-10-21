@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/6f4e8c0e-87db-4877-800a-7119f28c0859" style="margin-bottom: 50px">
 
-<br /><br /><br /><br />
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeet+Jhaveri;Nice+to+meet+you!&center=true&size=30">
