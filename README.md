@@ -1,4 +1,5 @@
-<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fc210d77-38f8-473d-a4cb-5f6ce390cc50" style="margin-bottom: 50px">
+<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/6f4e8c0e-87db-4877-800a-7119f28c0859" style="margin-bottom: 50px">
+
 <br /><br /><br /><br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
