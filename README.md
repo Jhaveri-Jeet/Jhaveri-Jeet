@@ -1,5 +1,11 @@
+<<<<<<< HEAD
 <img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fc210d77-38f8-473d-a4cb-5f6ce390cc50" style="margin-bottom: 50px">
 <br /><br />
+=======
+<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/6f4e8c0e-87db-4877-800a-7119f28c0859" style="margin-bottom: 50px">
+
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
+>>>>>>> 5b17460ba1f0a45fb176f8db5b60a1988e112d72
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeet+Jhaveri;Nice+to+meet+you!&center=true&size=30">
@@ -66,7 +72,7 @@
       <img align="right" width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=jhaveri-jeet&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhaveri-jeet&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
@@ -75,6 +81,8 @@
   <br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  
+[![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 </p>
 
 <hr>
@@ -91,13 +99,6 @@
   <a align="right" href="https://github.com/jhaveri-jeet/Megh-Mobile" title="Megh Mobile"><img align="right" height="120" src="https://github-readme-stats.vercel.app/api/pin/?username=jhaveri-jeet&repo=Megh-Mobile&theme=react&border_color=61dafb&border_radius=10"></a>
 </div>
 </p>
-<!-- <br /><br /><br /><br /><br /><br />
-<p align="center">
-<h2 align="center">✍️ Dev Quote ✍️</h2>
-<a align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=react-dark" height="200" align="center">
-</a>
-</p> -->
 
 <br/><br/><br/><br/><br/><br/><br/>
 
