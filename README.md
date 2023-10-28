@@ -1,11 +1,6 @@
-<<<<<<< HEAD
-<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fc210d77-38f8-473d-a4cb-5f6ce390cc50" style="margin-bottom: 50px">
-<br /><br />
-=======
 <img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/6f4e8c0e-87db-4877-800a-7119f28c0859" style="margin-bottom: 50px">
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
->>>>>>> 5b17460ba1f0a45fb176f8db5b60a1988e112d72
+<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeet+Jhaveri;Nice+to+meet+you!&center=true&size=30">
