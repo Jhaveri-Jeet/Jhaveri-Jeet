@@ -6,7 +6,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeet+Jhaveri;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
-
+<br /><br />
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/jeet-jhaveri-a18187223/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/literallyjeet/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
