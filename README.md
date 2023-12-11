@@ -18,7 +18,7 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in Saurastra University 
   <br>
-  🎓 I graduated from L.G. Haria High School
+  🎓 I graduated from Saurastra University
   <br>
   💻 I love writing code and like to take challenges to improve as an coder.
   <br>
