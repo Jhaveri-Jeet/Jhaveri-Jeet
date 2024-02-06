@@ -18,8 +18,6 @@
   <br>
   🔬 I'm currently studying for a bachelor's degree in Saurastra University 
   <br>
-  🎓 I graduated from Saurastra University
-  <br>
   💻 I love writing code and like to take challenges to improve as an coder.
   <br>
   📚 I’m currently learning how to build E-Commerce Website with React/.Net
