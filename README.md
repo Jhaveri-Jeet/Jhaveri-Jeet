@@ -1,6 +1,3 @@
-https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fdb3fcfb-49bd-4595-891d-4319e368ba3d
-
-
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
