@@ -1,29 +1,5 @@
-<img align="right" src="https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/03f52c9a-973e-4acb-977e-0105f384f8c8" style="margin-bottom: 40px">
+https://github.com/Jhaveri-Jeet/Jhaveri-Jeet/assets/114752089/fdb3fcfb-49bd-4595-891d-4319e368ba3d
 
-<br /><br /><br /><br /><br /><br /><br /><br /><br /><br />
-<h1 align="center">
-  <a href="https://git.io/typing-svg" style="font-color: black">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Jeet+Jhaveri;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-<br /><br />
-<h5 align="center">
-  <code><a href="https://www.linkedin.com/in/jeet-jhaveri-a18187223/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/literallyjeet/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
-</h5>
-<br>
-<p align="center">
-  Hi, I'm Jeet Jhaveri, Student & Coder & Tech Geek from India
-  <br>
-  <br>
-  🔬 I'm currently studying for a bachelor's degree in Saurastra University 
-  <br>
-  💻 I love writing code and like to take challenges to improve as an coder.
-  <br>
-  📚 I’m currently learning how to build E-Commerce Website with React/.Net
-  <br>
-  📫 How to reach me: <a href="mailto: jeetwork941@gmail.com">jeetwork941@gmail.com</a>
-</p>
 
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
