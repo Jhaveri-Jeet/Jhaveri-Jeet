@@ -5,8 +5,7 @@
 
 [![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 
-<hr>
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Streaks of Slack ⚡</h2>
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
