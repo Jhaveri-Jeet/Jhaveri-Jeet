@@ -38,7 +38,7 @@
       <img align="right" width=390 height=200 src="https://github-readme-stats.vercel.app/api?username=jhaveri-jeet&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-  <br><br><br><br><br><br><br><br><br><br><br>
+  <br><br><br><br><br>
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
   
