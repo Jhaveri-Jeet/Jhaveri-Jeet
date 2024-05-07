@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./images/black.png' />
+  <img src='./images/jeetcoding.png' />
 </div>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
