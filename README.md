@@ -1,3 +1,6 @@
+<div align="center">
+  <img src='./images/black.png' />
+</div>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
