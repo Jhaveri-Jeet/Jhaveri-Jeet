@@ -2,6 +2,7 @@
   <img src='./images/jeetcoding.png' />
 </div>
 <br>
+
 [![An image of @jhaverijeet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jhaverijeet)](https://holopin.io/@jhaverijeet)
 
 <hr>
