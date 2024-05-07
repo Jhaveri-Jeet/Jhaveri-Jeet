@@ -13,6 +13,6 @@
     <img src="https://streak-stats.demolab.com?user=jhaveri-jeet&theme=dark&hide_border=true&border_radius=10&background=070707&border=070707&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
     </a>
   </div>
-  <br><br><br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=high-contrast&bg_color=20232a&hide_border=true" width="100%"/>
+  <br>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
