@@ -1,5 +1,5 @@
 <div align="center">
-  <img src='./images/black.png' height="50%" width="50%" />
+  <img src='./images/black.png' height="70%" width="70%" />
 </div>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
