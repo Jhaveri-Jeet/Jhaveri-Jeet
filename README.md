@@ -15,3 +15,9 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
+
+<!-- BLOGS_START -->
+
+## Recent Medium Blogs
+
+<!-- BLOGS_END -->
