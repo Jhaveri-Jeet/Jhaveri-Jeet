@@ -15,3 +15,6 @@
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
+
+<h2 align="center">⚡ Try Hack Me ⚡</h2>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3642551" style='border:none;'></iframe>
