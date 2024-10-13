@@ -9,18 +9,9 @@
 <p align=center>
   <div align=center>
     <a href="https://git.io/streak-stats">
-      <img src="https://streak-stats.demolab.com?user=jhaveri-jeet&theme=dark&hide_border=true&border_radius=10&background=070707&border=070707&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+    <img src="https://streak-stats.demolab.com?user=jhaveri-jeet&theme=dark&hide_border=true&border_radius=10&background=070707&border=070707&stroke=FFFFFF&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF" alt="GitHub Streak" />
     </a>
   </div>
   <br>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhaveri-jeet&theme=high-contrast&bg_color=070707&hide_border=true" width="100%"/>
 </p>
-
-<!-- TryHackMe Badge -->
-<div align="center" style="margin-top: 20px;">
-  <a href="https://tryhackme.com/profile/jhaverijeet" target="_blank">
-    <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3642551" alt="TryHackMe Badge" style="border:none;" width="300"/>
-  </a>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3642551" style='border:none;'></iframe>
-  <p>Check out my TryHackMe profile!</p>
-</div>
