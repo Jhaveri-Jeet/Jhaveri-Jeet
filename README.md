@@ -21,5 +21,6 @@
   <a href="https://tryhackme.com/profile/jhaverijeet" target="_blank">
     <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3642551" alt="TryHackMe Badge" style="border:none;" width="300"/>
   </a>
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3642551" style='border:none;'></iframe>
   <p>Check out my TryHackMe profile!</p>
 </div>
